@@ -1,0 +1,108 @@
+
+
+.loginH1Text {
+    color: black;
+    font-family: fantasy;
+
+}
+
+.button {
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+    transition-duration: 0.1s;
+
+}
+
+.button:hover{
+    background-color: gray;
+}
+
+.labelElementText{
+    color: black;
+}
+
+#gradient{
+    background-image:linear-gradient(to right, rgb(182, 228, 243), rgb(9, 144, 197))
+}
+
+body{
+    background-color: white;
+}
+
+.formElement{
+    background-color:white;
+    border: 2px solid black;
+}
+
+.usrNameinputBox{
+    border: 2px solid black;
+}
+
+.emailInputBox{
+    border: 2px solid black;
+}
+.inputBoxLoginPW{
+    border: 2px solid black;
+}
+
+
+/*############################################################
+################registrationCodeBelow######################*/
+
+#gradient2{
+    background-image:linear-gradient(to right, rgb(182, 228, 243), rgb(9, 144, 197))
+}
+.h1TextRegistrationForm{
+    font-family: fantasy;
+}
+
+.usrNameInputRP{
+    border: 2px solid black;
+}
+
+.emailInputBox{
+    border: 2px solid black;
+}
+
+.passwordInputBoxRP{
+    border: 2px solid black;
+}
+
+.confirmPasswordInputBoxRP{
+    border: 2px solid black;
+}
+
+
+
+/*###############################################################
+################postImageCodeBelow#############################*/
+
+#gradient3{
+    background-image:linear-gradient(to right, rgb(182, 228, 243), rgb(9, 144, 197))
+}
+
+.postImageh1Text{
+    font-family: fantasy;
+}
+
+.inputPostTitleInput{
+    border: 2px solid black;
+}
+
+.inputPostDesrptInput{
+    border: 2px solid black;
+
+}
+
+.imageInputBttn{
+    border: 2px solid black;
+}
+
+.acceptableUsePolicyLink{
+    border: 2px solid blue;
+}
+
+.checkBoxPostImagePage{
+    border: 2px solid red;
+}
